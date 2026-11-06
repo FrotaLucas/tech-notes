@@ -1,4 +1,3 @@
-
 ---
 title: "Harness e LangGraph"
 subject: "Inteligência Artificial"
