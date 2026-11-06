@@ -532,9 +532,16 @@ Com RAG, o sistema recupera apenas os trechos relacionados
 LLMs a bases de conhecimento externas e reduzir a necessidade
 de enviar grandes volumes de informação a cada interação.
 
+
 ---
 
-## 10. Perguntas para revisão
+## 10. Exemplo de RAG da aula
+
+<img width="1242" height="753" alt="image" src="https://github.com/user-attachments/assets/8ac9dd35-9e96-4290-bc49-e42b5a0e5499" />
+
+---
+
+## 11. Perguntas para revisão
 
 1. O que significa RAG?
 2. Quais são as três etapas fundamentais do RAG?
