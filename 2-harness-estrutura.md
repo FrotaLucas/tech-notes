@@ -318,8 +318,12 @@ para continuar a solicitação do usuário.
 | PostgreSQL | Persistir histórico e checkpoints |
 
 ---
+## 8. Exemplo de Fluxo da Aula
 
-## 8. Perguntas para revisão
+<img width="1535" height="961" alt="image" src="https://github.com/user-attachments/assets/e03da70b-6f6c-4138-86fd-4154ce89fe30" />
+
+
+## 9. Perguntas para revisão
 
 1. Qual é a diferença entre um LLM e um Harness?
 2. Por que um AI Agent precisa de um Harness?
