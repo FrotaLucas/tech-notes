@@ -1,4 +1,3 @@
-
 ---
 title: "RAG - Retrieval-Augmented Generation"
 subject: "Inteligência Artificial"
