@@ -1,4 +1,3 @@
-
 ---
 title: "Memory, Fine-Tuning, Agents e MCP"
 subject: "Inteligência Artificial"
